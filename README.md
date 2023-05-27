@@ -1,2 +1,3 @@
 # Inferential_statistics_project
-Multiple regression model to predict the weight of newborns
+
+In this medical study, information about 2500 babies from 3 different hospitals has been collected. The study looks at different things that may affect a baby's weight when they are born, such as how old the mother is, how many times she has been pregnant before, if she smokes, and whether the baby is delivered naturally or through surgery. The researchers want to understand if all of these different factors can help predict a baby's weight at birth. They are also interested in seeing if the mother's information, like her age and smoking habits, have a big impact on the baby's weight. By looking at all of this information, they hope to learn more about what can affect a baby's health and development.
